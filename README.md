@@ -13,7 +13,7 @@ The Covid 19 indonesia dataset containing 38 variables and 21760 observations wa
 **Recommendations to the policy makers at the Indonesia ministry of health:**
 
 1.	The major takeaway for the government from the recent pandemic is to work towards the development of the healthcare system. Indonesia is world’s 4th most populated country and as per an article by “frontiers in public health”, Indonesia needed an additional 1500 doctors and 2500 nurses to manage the surge of covid 19 patients.
-2.	The health activities of highly populated provinces must be closely monitored, as these areas are more susceptible to virus outbreaks. Especially now when monkey pox is also declared as a global health emergency by WHO 5 days ago.
+2.	The health activities of highly populated provinces must be closely monitored, as these areas are more susceptible to virus outbreaks. Especially now when monkey pox is also declared as a global health emergency by WHO.
 3.	A study must also be carried out to determine the causes for the Banten province observing the highest fatality rate during the covid 19 pandemic
 
 **Power BI dashboard screenshot**
